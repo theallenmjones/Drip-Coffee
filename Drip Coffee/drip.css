@@ -1,0 +1,232 @@
+* {
+  max-width: 100%;
+}
+
+
+body {
+
+        background:
+        linear-gradient(
+     rgba(0, 0, 0, 0.45),
+     rgba(0, 0, 0, 0.45)
+   ),
+   /* bottom, image */
+   url(https://static.pexels.com/photos/38106/pexels-photo-38106.jpeg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: right;
+
+
+   font-family: 'Unica One', cursive;
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Comfortaa', cursive;
+
+    }
+
+div {
+  margin: 0 auto;
+}
+
+
+.row  {
+  margin: 0 auto;
+
+}
+
+
+.main-title {
+
+  background:
+  linear-gradient(
+rgba(0, 0, 0, 0.45),
+rgba(0, 0, 0, 0.45)
+),
+/* bottom, image */
+url(https://static.pexels.com/photos/302899/pexels-photo-302899.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+  height: 650px;
+  width: 85%;
+
+}
+
+
+.main-title h3 {
+  color: white;
+  font-size: 3em;
+  padding-top: 20%;
+}
+.main-title h1 {
+  color: white;
+  font-size: 8em;
+  margin-top: -4%;
+  text-align: right;
+
+}
+
+.main-title h4 {
+  padding-bottom: 20%;
+  text-align: right;
+  color: #ffcc00;
+  padding-right: 5%;
+}
+
+
+.drinks-title {
+
+    background:
+    linear-gradient(
+  rgba(0, 0, 0, 0.60),
+  rgba(0, 0, 0, 0.45)
+  ),
+  /* bottom, image */
+  url(https://static.pexels.com/photos/302894/pexels-photo-302894.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+    height:200px;
+    width: 85%;
+    margin-top: 3%;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+
+
+}
+
+.drinks-title h1 {
+  /*font-size: 4em;
+  color: white;*/
+
+}
+
+.drinks-title h1{
+  color: white;
+  text-align: left;
+  font-size: 7em;
+}
+
+.drinktype-main {
+  background-color: grey;
+  width: 85%;
+  text-align: center;
+
+}
+
+
+
+
+.drinks-main p {
+  color: white;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.drinks {
+margin: 0 auto;
+padding: 1%;
+
+
+}
+
+.drinks img {
+  margin: 20px;
+}
+
+
+.main-nav a{
+  color: white;
+  text-decoration: none;
+}
+
+.food-title {
+  background:
+  linear-gradient(
+rgba(0, 0, 0, 0.60),
+rgba(0, 0, 0, 0.45)
+),
+/* bottom, image */
+url(https://static.pexels.com/photos/29682/pexels-photo-29682.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+  height:200px;
+  width: 85%;
+  margin-top: 3%;
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
+.food-title h1{
+  color: white;
+  text-align: right;
+  font-size: 7em;
+}
+
+.food-main {
+  background-color: white;
+  width: 85%;
+  text-align: center;
+
+}
+
+.food-main img {
+  margin: 0 auto;
+
+}
+
+.food-main p {
+  color: balck;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+
+
+
+h3 {
+  text-align: center;
+  color: white;
+  padding-top: 5%;
+     }
+
+.row {
+  text-align: center;
+}
+
+.row h4 {
+  color: white;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.row p {
+  text-align: center;
+  color: white;
+}
+
+.row img {
+  margin: 0 auto;
+}
+
+
+
+form {
+  width: 60%;
+  color: white;
+  margin: 10% auto;
+}
+
+.map {
+  width: 60%;
+}
+
+.map h1 {
+  color: white;
+}
